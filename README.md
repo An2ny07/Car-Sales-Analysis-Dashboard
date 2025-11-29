@@ -27,3 +27,22 @@ To design and develop an interactive Car Sales Dashboard that provides real-time
 ## Dashboard Pages
 <img width="795" height="460" alt="Overview Pic" src="https://github.com/user-attachments/assets/99c1ed3c-4f1b-4b36-8ee7-bc8f6aa13eff" />
 <img width="798" height="463" alt="Details Pic" src="https://github.com/user-attachments/assets/b010d92e-7edb-495c-8a88-e530c69f68c4" />
+
+## Key Insights Discovered
+- Total YTD Sales reached $371.2M
+- SUV and Sedan categories contribute the highest share of sales
+- Black and Pale White are the most purchased car colors
+- The highest performing dealer regions include Austin, Middletown, Pasco
+- Top companies by YTD total sales include Chevrolet, Cadillac, Ford, BMW.
+
+  ## How to Use This Project
+Download the .pbix file from the repository
+Open in Power BI Desktop
+Load the dataset from the /data folder
+Refresh the model
+Explore the Overview and Details tabs
+
+## 👤 Author
+Mark Anthony Bulda
+Data Analyst | Data Entry Specialist
+markanthonybulda88@gmail.com
