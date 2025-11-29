@@ -35,14 +35,14 @@ To design and develop an interactive Car Sales Dashboard that provides real-time
 - The highest performing dealer regions include Austin, Middletown, Pasco
 - Top companies by YTD total sales include Chevrolet, Cadillac, Ford, BMW.
 
-  ## How to Use This Project
-Download the .pbix file from the repository
-Open in Power BI Desktop
-Load the dataset from the /data folder
-Refresh the model
-Explore the Overview and Details tabs
+## How to Use This Project
+Download the .pbix file from the repository <br/>
+Open in Power BI Desktop <br/>
+Load the dataset from the /data folder <br/>
+Refresh the model <br/>
+Explore the Overview and Details tabs <br/>
 
 ## 👤 Author
-Mark Anthony Bulda
-Data Analyst | Data Entry Specialist
+Mark Anthony Bulda <br/>
+Data Analyst | Data Entry Specialist <br/>
 markanthonybulda88@gmail.com
