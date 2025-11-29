@@ -14,3 +14,16 @@ To design and develop an interactive Car Sales Dashboard that provides real-time
 - DAX – KPI calculations (YTD, MTD, YOY metrics)
 - Power Query – cleaning & transformation
 - Excel Dataset: 23,000+ rows of car sales transactions
+
+## Data Cleaning & Preparation (Excel + Power Query)
+- Removed duplicates & blank rows
+- Standardized date formats
+- Converted text to categorical formats
+- Cleaned inconsistent values (e.g., color, model names)
+- Created calculated fields (Total Sales = Price)
+- Checked outlier values in income & pricing
+- Validated dealer names and regions
+
+## Dashboard Pages
+<img width="795" height="460" alt="Overview Pic" src="https://github.com/user-attachments/assets/99c1ed3c-4f1b-4b36-8ee7-bc8f6aa13eff" />
+<img width="798" height="463" alt="Details Pic" src="https://github.com/user-attachments/assets/b010d92e-7edb-495c-8a88-e530c69f68c4" />
